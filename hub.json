@@ -1,0 +1,1 @@
+{"name": "I18n Extractor", "slug": "skill-i18n-extractor", "kind": "skill", "description": "Extracts hard-coded UI strings from React and .NET code into resource files with stable hierarchical keys, plurals, and interpolation.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "contentDir": "skill"}
