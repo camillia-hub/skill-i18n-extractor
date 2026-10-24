@@ -11,12 +11,12 @@ A Camillia skill that finds hard-coded UI strings in React and .NET code, moves 
 
 ## Install
 
-Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/skills/skill-i18n-extractor/` and the agent applies it whenever you localize a component or a review flags hard-coded strings.
+Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/extensions/i18n-extractor/` and the agent applies it whenever you localize a component or a review flags hard-coded strings.
 
 ## Contents
 
-- `skill/SKILL.md` - the procedure the agent follows
-- `skill/extraction-examples.md` - skip list and before/after pairs per framework
+- `extensions/i18n-extractor/SKILL.md` - the procedure the agent follows
+- `extensions/i18n-extractor/extraction-examples.md` - skip list and before/after pairs per framework
 
 ## Validate
 
